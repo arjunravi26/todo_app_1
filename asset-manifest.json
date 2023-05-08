@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arjunravi26/todo_app_1.git/static/css/main.585737d5.css",
+    "main.js": "/arjunravi26/todo_app_1.git/static/js/main.78cfbae5.js",
+    "index.html": "/arjunravi26/todo_app_1.git/index.html",
+    "main.585737d5.css.map": "/arjunravi26/todo_app_1.git/static/css/main.585737d5.css.map",
+    "main.78cfbae5.js.map": "/arjunravi26/todo_app_1.git/static/js/main.78cfbae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.585737d5.css",
+    "static/js/main.78cfbae5.js"
+  ]
+}
